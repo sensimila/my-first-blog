@@ -25,7 +25,7 @@ SECRET_KEY = '$ddji+^0z)a#e$vnhjxml$f+u^5zbe!ujq_4(^&%ov()!h^k&k'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['sensimila.pythonanywhere.com']
 
 
 # Application definition
